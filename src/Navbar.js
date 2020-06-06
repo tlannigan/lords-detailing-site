@@ -12,6 +12,7 @@ const StyledNavbar = styled.nav`
   height: 80px;
   background: ${(props) => props.theme.primary};
   box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5);
+  z-index: 10;
 
   h1 {
     position: absolute;

@@ -71,7 +71,7 @@ function Quote(props) {
         <p className="right-quotation">&rdquo;</p>
       </div>
       <div className="author">
-        <img alt="Amanda Seyfried" src="https://lh3.googleusercontent.com/proxy/MO43VU7i94K08_xGe8dvib6VRQQ7YpdQIcSXvnJrWvZgKKCtZM5LRib_zufp4U5kLgW6AvuwRUo3B8Lm76WfuPiWpos86pYeAsPXPeIW5WoDHfdXVSY" />
+        <img alt="Amanda Seyfried" src="./img/avatar.png" />
         <p>Amanda Seyfried</p>
       </div>
     </StyledQuote>
