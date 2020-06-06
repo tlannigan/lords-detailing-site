@@ -8,11 +8,7 @@ const StyledHeroBanner = styled.div`
 `;
 
 function HeroBanner() {
-  return (
-    <StyledHeroBanner>
-      <h2>Hi</h2>
-    </StyledHeroBanner>
-  )
+  return <StyledHeroBanner />;
 }
 
 export default HeroBanner;
